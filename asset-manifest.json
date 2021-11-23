@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/oasis1/static/css/main.e11d959d.chunk.css",
+    "main.js": "/oasis1/static/js/main.27860eb4.chunk.js",
+    "main.js.map": "/oasis1/static/js/main.27860eb4.chunk.js.map",
+    "runtime-main.js": "/oasis1/static/js/runtime-main.5fbd139f.js",
+    "runtime-main.js.map": "/oasis1/static/js/runtime-main.5fbd139f.js.map",
+    "static/js/2.05fa502a.chunk.js": "/oasis1/static/js/2.05fa502a.chunk.js",
+    "static/js/2.05fa502a.chunk.js.map": "/oasis1/static/js/2.05fa502a.chunk.js.map",
+    "static/js/3.34f08719.chunk.js": "/oasis1/static/js/3.34f08719.chunk.js",
+    "static/js/3.34f08719.chunk.js.map": "/oasis1/static/js/3.34f08719.chunk.js.map",
+    "index.html": "/oasis1/index.html",
+    "static/css/main.e11d959d.chunk.css.map": "/oasis1/static/css/main.e11d959d.chunk.css.map",
+    "static/js/2.05fa502a.chunk.js.LICENSE.txt": "/oasis1/static/js/2.05fa502a.chunk.js.LICENSE.txt",
+    "static/media/building.6c7dea90.jpg": "/oasis1/static/media/building.6c7dea90.jpg",
+    "static/media/individual.8496902c.png": "/oasis1/static/media/individual.8496902c.png",
+    "static/media/next.36ed20e6.png": "/oasis1/static/media/next.36ed20e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fbd139f.js",
+    "static/js/2.05fa502a.chunk.js",
+    "static/css/main.e11d959d.chunk.css",
+    "static/js/main.27860eb4.chunk.js"
+  ]
+}
