@@ -1,0 +1,35 @@
+.quote {
+  width: 500px;
+}
+.Success {
+  display: flex;
+  margin: 0px;
+}
+
+.SuccessContent {
+  display: block;
+}
+
+.title {
+  text-align: right;
+  margin-top: 100px;
+  margin-left: 50px;
+}
+.SuccessContent {
+  margin-top: 150px;
+  margin-left: 150px;
+  text-align: left;
+}
+
+.Button1 {
+  padding: 20px 24px;
+  width: 450px;
+  position: absolute;
+  margin-top: 30px;
+  border-radius: 10px;
+  background-color: rgb(36, 112, 226);
+  color: white;
+  border-width: 0px;
+  font-size: 18px;
+  font-family: "Raleway", sans-serif;
+}

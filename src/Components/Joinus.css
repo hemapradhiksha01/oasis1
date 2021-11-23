@@ -1,0 +1,107 @@
+.joinus {
+  display: flex;
+  justify-content: flex-start;
+  margin: 0px;
+}
+.quote {
+  max-width: 500px;
+}
+
+.joinus1 {
+  color: gray;
+  margin-top: 60px;
+  margin-right: 50px;
+  text-align: right;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+}
+
+.joinus2 {
+  color: black;
+  margin-top: 100px;
+  margin-left: 150px;
+  text-align: left;
+  font-style: normal;
+  font-weight: bold;
+  font-family: "calibri", sans-serif;
+  font-size: 35px;
+}
+
+.joinus3 {
+  color: gray;
+  text-align: left;
+  margin-left: 150px;
+  font-style: normal;
+  font-weight: lighter;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  max-width: 500px;
+}
+
+.typeofaccount {
+  margin-top: 40px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(253, 245, 252);
+  display: flex;
+  background-color: rgb(253, 245, 252);
+  max-height: 50px;
+  max-width: 400px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  padding: 30px;
+  margin-left: 150px;
+}
+
+.individual {
+  width: 17%;
+  height: 17%;
+  margin-top: -10px;
+}
+
+.business {
+  width: 18%;
+  height: 18%;
+  margin-top: -10px;
+}
+
+.description1 {
+  overflow-wrap: break-word;
+  font-weight: lighter;
+  max-width: 250px;
+  text-align: left;
+  font-size: 15px;
+  margin-left: -88px;
+}
+
+.description2 {
+  overflow-wrap: break-word;
+  font-weight: lighter;
+  max-width: 250px;
+  text-align: left;
+  font-size: 15px;
+  margin-left: -75px;
+}
+.typeofaccount1 {
+  margin-top: -10px;
+  margin-left: 10px;
+}
+
+.arrow {
+  display: flex;
+  margin-top: 10px;
+  margin-left: 30px;
+  text-align: center;
+  max-width: 30px;
+  max-height: 30px;
+  opacity: 1;
+}
+.arrow:hover + .typeofaccount:hover {
+  opacity: 1;
+}
+
+.typeofaccount:hover {
+  border-color: blue;
+}
